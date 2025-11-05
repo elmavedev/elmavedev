@@ -8,4 +8,4 @@
 - [BlazorCsvExporter](https://github.com/elmavedev/BlazorCsvExporter) — CSV export component for Blazor Server and WebAssembly.
 
 ## 🧰 Tech Stack
-C#, .NET 8, Blazor, SQL, JavaScript, HTML/CSS, Git, Visual Studio, PostgreSQL
+C#, .NET 8, Blazor, SQL, JavaScript, HTML/CSS, Git, Visual Studio, SqlServer
