@@ -3,7 +3,7 @@
 ### 💻 C# / Blazor Developer | .NET Enthusiast | Software Craftsman
 
 I'm a software developer based in Augsburg, Germany, currently working at **PP IT-Systeme GmbH**.  
-I specialize in **Blazor**, **.NET 8**, and enterprise system integrations (such as **myfactory** and **Chronos**).  
+I specialize in **Blazor**, **.NET 8**, and enterprise system integrations.  
 Passionate about clean code, performance optimization, and creating elegant, reusable components for real-world use.
 
 ---
@@ -23,14 +23,14 @@ A lightweight, dependency-free component for exporting data to CSV in Blazor app
 |-----------|---------------|
 | **Languages** | C#, SQL, JavaScript |
 | **Frameworks** | .NET 8, ASP.NET Core, Blazor Server, Blazor WebAssembly |
-| **Databases** | PostgreSQL, MSSQL |
+| **Databases** | SQLServer |
 | **Tools** | Visual Studio 2022, Git, Postman |
 | **Other** | Myfactory ERP, API integrations, REST, JSON, XML |
 
 ---
 
 ## 🧠 Currently Learning
-- Advanced **.NET MAUI** and mobile UI optimization  
+- Advanced **.NET**  
 - Modern **Blazor Hybrid** patterns  
 - German tech communication 🇩🇪  
 
